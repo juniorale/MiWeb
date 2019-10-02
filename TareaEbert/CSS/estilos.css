@@ -1,0 +1,26 @@
+.Padre {
+    text-align: center;
+    border: 1px solid black;
+    pasition: static;
+    margin-top: 300px;
+    height: 600px;
+    width: 2119px;   
+    background-color: darkseagreen;
+}
+
+.hijo {
+    background-color: yellow;
+    padding: 150px;
+    margin: 130px 89px ;
+    display: inline-block;
+}
+
+.cabezon {
+    background-color: aqua;
+    padding: 10px;
+    
+}
+.pie {
+    background-color: chartreuse;
+    padding: 150px;
+}
